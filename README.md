@@ -51,35 +51,6 @@ summary(links).style.background_gradient(cmap='YlOrBr')
     shape of data: (9742, 3)
 
 
-
-
-
-<style type="text/css">
-#T_0c34f_row0_col1, #T_0c34f_row0_col2, #T_0c34f_row0_col4, #T_0c34f_row0_col5, #T_0c34f_row0_col6, #T_0c34f_row0_col7, #T_0c34f_row0_col8, #T_0c34f_row0_col10, #T_0c34f_row1_col1, #T_0c34f_row1_col2, #T_0c34f_row2_col3, #T_0c34f_row2_col6, #T_0c34f_row2_col9 {
-  background-color: #ffffe5;
-  color: #000000;
-}
-#T_0c34f_row0_col3, #T_0c34f_row1_col3, #T_0c34f_row1_col4, #T_0c34f_row1_col5, #T_0c34f_row1_col6, #T_0c34f_row1_col7, #T_0c34f_row1_col8, #T_0c34f_row1_col9, #T_0c34f_row1_col10, #T_0c34f_row2_col1, #T_0c34f_row2_col2 {
-  background-color: #662506;
-  color: #f1f1f1;
-}
-#T_0c34f_row0_col9, #T_0c34f_row2_col5, #T_0c34f_row2_col10 {
-  background-color: #fffcd8;
-  color: #000000;
-}
-#T_0c34f_row2_col4 {
-  background-color: #fffedf;
-  color: #000000;
-}
-#T_0c34f_row2_col7 {
-  background-color: #fffbcf;
-  color: #000000;
-}
-#T_0c34f_row2_col8 {
-  background-color: #fffbd3;
-  color: #000000;
-}
-</style>
 <table id="T_0c34f">
   <thead>
     <tr>
@@ -158,17 +129,6 @@ summary(movies).style.background_gradient(cmap='YlOrBr')
 
 
 
-
-<style type="text/css">
-#T_882ad_row0_col1, #T_882ad_row0_col2, #T_882ad_row1_col1, #T_882ad_row1_col2, #T_882ad_row2_col1, #T_882ad_row2_col2, #T_882ad_row2_col3 {
-  background-color: #ffffe5;
-  color: #000000;
-}
-#T_882ad_row0_col3, #T_882ad_row1_col3 {
-  background-color: #662506;
-  color: #f1f1f1;
-}
-</style>
 <table id="T_882ad">
   <thead>
     <tr>
@@ -246,24 +206,6 @@ summary(ratings).style.background_gradient(cmap='YlOrBr')
 
 
 
-<style type="text/css">
-#T_4c92c_row0_col1, #T_4c92c_row0_col2, #T_4c92c_row0_col4, #T_4c92c_row0_col5, #T_4c92c_row0_col6, #T_4c92c_row0_col7, #T_4c92c_row0_col8, #T_4c92c_row0_col9, #T_4c92c_row0_col10, #T_4c92c_row1_col1, #T_4c92c_row1_col2, #T_4c92c_row1_col4, #T_4c92c_row1_col5, #T_4c92c_row1_col6, #T_4c92c_row1_col7, #T_4c92c_row1_col8, #T_4c92c_row1_col9, #T_4c92c_row1_col10, #T_4c92c_row2_col1, #T_4c92c_row2_col2, #T_4c92c_row2_col3, #T_4c92c_row2_col4, #T_4c92c_row2_col5, #T_4c92c_row2_col6, #T_4c92c_row2_col7, #T_4c92c_row2_col8, #T_4c92c_row2_col9, #T_4c92c_row2_col10, #T_4c92c_row3_col1, #T_4c92c_row3_col2 {
-  background-color: #ffffe5;
-  color: #000000;
-}
-#T_4c92c_row0_col3 {
-  background-color: #ffffe4;
-  color: #000000;
-}
-#T_4c92c_row1_col3 {
-  background-color: #fff8c0;
-  color: #000000;
-}
-#T_4c92c_row3_col3, #T_4c92c_row3_col4, #T_4c92c_row3_col5, #T_4c92c_row3_col6, #T_4c92c_row3_col7, #T_4c92c_row3_col8, #T_4c92c_row3_col9, #T_4c92c_row3_col10 {
-  background-color: #662506;
-  color: #f1f1f1;
-}
-</style>
 <table id="T_4c92c">
   <thead>
     <tr>
@@ -357,24 +299,6 @@ summary(tags).style.background_gradient(cmap='YlOrBr')
 
 
 
-<style type="text/css">
-#T_fc592_row0_col1, #T_fc592_row0_col2, #T_fc592_row0_col3, #T_fc592_row1_col1, #T_fc592_row1_col2, #T_fc592_row2_col1, #T_fc592_row2_col2, #T_fc592_row3_col1, #T_fc592_row3_col2 {
-  background-color: #ffffe5;
-  color: #000000;
-}
-#T_fc592_row1_col3 {
-  background-color: #feaa38;
-  color: #000000;
-}
-#T_fc592_row2_col3 {
-  background-color: #fea937;
-  color: #000000;
-}
-#T_fc592_row3_col3 {
-  background-color: #662506;
-  color: #f1f1f1;
-}
-</style>
 <table id="T_fc592">
   <thead>
     <tr>
@@ -494,19 +418,6 @@ movies_df.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
